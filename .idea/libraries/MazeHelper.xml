@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MazeHelper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MazeHelper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/MazeHelper.jar!/" />
+    </SOURCES>
+  </library>
+</component>
